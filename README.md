@@ -1,13 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ehsan
-==============================================================================================================================
-
-Working on projects at standard temperature and pressure, aka free time.
-------------------------------------------------------------------------
-
-* 🖥️  See my portfolio at [my website](http://food-is-uni.vercel.app)
-  
-* 💬  I am a learner who loves finding patterns and getting lost in the intricacies of problem-solving. My background spans core languages like C, C++, Python, and web technologies. While I initially started learning ML and AI for my field of study, I stayed for the countless possibilities they offer. A teacher once told me that if you enjoy machine learning, you will love Quantum Computing; I took that analogy to heart and am now exploring that a little at a time. I firmly believe every creative idea deserves a "space to breathe," which is why I focus on building hands-on projects that bridge the gap between idea and reality. And as a part-time Web Developer Assistant at my college, I am currently gaining experience in team collaboration, managing urgent technical calls, and supporting teammates while maintaining the institutional website and its functionalities.
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Ehsanstp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
